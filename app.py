@@ -45,7 +45,7 @@ def download_file_and_rename(url, file_path):
 
 st.set_page_config(layout="wide")
 st.title('Data Preparation and Analysis with Mito')
-st.st.caption('Created by Bayhaqy :sunglasses:')
+st.caption('Created by Bayhaqy :sunglasses:')
 
 option_rd = st.radio(
   "Choose option to upload your data",
